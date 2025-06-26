@@ -1,0 +1,19 @@
+sort1 uses: Bubble Sort
+
+How do you know?: It was the quickest when it came to sorting already sorted files
+
+sorted50,000.txt = 0.6s
+reversed50,000.txt = 5.8s
+
+sort2 uses: Merge sort
+
+How do you know?: It exceeded the other sort prpgrams in speedily sorting reversed text files
+
+reversed50,000.txt = 0.5s
+
+sort3 uses: Selection Sort
+
+How do you know?: It was the slowest operating sort file when it came to sorted text files and reversed number files
+
+sorted50,000.txt = 3.6s
+reversed50,000.txt = 4.0s
